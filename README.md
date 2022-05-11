@@ -1,7 +1,7 @@
+ <div align="center">
+  <img height="370" width="675" src="https://github.com/RodrigoAnjos2004/Crud-handlebars/blob/main/Untitled.png" alt="RodrigoAnjos2004" />
+</div>  
  
- <div style="display: flex;"><br>
-  <img align="center" alt="rd-crud" height="200" width="400" src="https://github.com/RodrigoAnjos2004/Crud-handlebars/blob/main/Untitled.png">
-
 # Crud-handlebars
 ```ruby
 
